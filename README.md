@@ -4,12 +4,12 @@ My name is Bartek. I am a 22 y.o. Polish full-stack web developer.
 
 ### ⚡ Little trivia:
 - 👨‍🎓 4th year Automatics & Robotics student
-- 💼 Currently working at Virtual Teacher, a great Polish ed-tech start-up
+- 💼 Currently working at FLYR Labs
 - 🎵 Making music when no-one's listening
 
 ### 🖥️ Current main technology stack:
 - Python
-- GraphQL
+- Flask
 - PostgreSQL
 - React.js
 - Typescript
