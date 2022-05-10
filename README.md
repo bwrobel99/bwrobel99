@@ -1,6 +1,6 @@
 ## Hi, what's up? 👋
 
-My name is Bartek. I am a 22 y.o. Polish full-stack web developer.
+My name is Bartek. I am a 23 y.o. Polish full-stack web developer.
 
 ### ⚡ Little trivia:
 - 👨‍🎓 Bachelor of Engineering in Automatics & Robotics  
